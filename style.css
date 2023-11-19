@@ -11,11 +11,3 @@ canvas{
     width: 100vw;
     height: 100vh;
 }
-
-.gameOver{
-    display: none;
-}
-
-.newGame{
-    background-color: blue;
-}
